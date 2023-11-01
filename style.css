@@ -198,10 +198,10 @@ p{
     font-size: 18px;
 }
 
-@media (max-width: 480px) and (min-width: 380px) {
+@media (max-width: 480px) and (min-width: 10px) {
 div.circle {
         position: relative;
-        left: 00px;
+        left: 240px;
     }
 .body{
 
